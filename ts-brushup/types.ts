@@ -13,3 +13,9 @@ let fn:()=> void=function(){
 let gob:Object={}
 let aant: any=true
 
+function dataIot(ip:string):Array<string>{   //Generics means array of string
+    return new Array()
+}
+
+
+
