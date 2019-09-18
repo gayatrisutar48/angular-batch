@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-my-al',
   template: `
   <div class="alert alert-info mt-3">
-  ii)Property binding(it works with anything i.e, object,string..etc it written in ) iii)Event Binding iv)one way binding 
+  Angular, Typescript, JavaScript is the future of front end development in any application. If you have not learned Angular and wanted to learn then CodeKul will be your first priority. CodeKul is a training institute which provides training on Angular 2 in Pune. If you decided to learn Angular then enroll your name at CodeKul for Angular certification. 
   </div>
   
   `,
